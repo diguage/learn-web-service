@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WS080_CXF_Spring"
+  id="myeclipse.1307444253175"
+  context-root="/WS080_CXF_Spring"
+  j2ee-spec="5.0"
+  archive="WS080_CXF_Spring.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<beans xmlns="http://xfire.codehaus.org/config/1.0">
+  <service>
+    <name>HelloWorldService</name>
+    <namespace>http://127.0.0.1:8080/service/helloWorld</namespace>
+    <serviceClass>org.ivvy.xfire.HelloWorld</serviceClass>
+    <implementationClass>org.ivvy.xfire.HelloWorldImpl</implementationClass>
+  </service>
+</beans>

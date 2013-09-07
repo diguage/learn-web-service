@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WS030_XFire_Server"
+  id="myeclipse.1307005017351"
+  context-root="/WS030_XFire_Server"
+  j2ee-spec="5.0"
+  archive="WS030_XFire_Server.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
